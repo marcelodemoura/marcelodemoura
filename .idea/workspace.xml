@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31acd378-bdca-4499-b256-0729fa09c06b" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/MetodosAula..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/src/exercicio/metodos/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/src/exercicio/metodos/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/src/exercicio/metodos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MetodosAula/src/exercicio/metodos/Menssagem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MetodosAula" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GOherkJcgssmkCXSzVOXO1mrox" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31acd378-bdca-4499-b256-0729fa09c06b" name="Changes" comment="" />
+      <created>1666265640482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666265640482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
